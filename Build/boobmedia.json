@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 536870912,
+"dataUrl": "boobmedia.data.unityweb",
+"asmCodeUrl": "boobmedia.asm.code.unityweb",
+"asmMemoryUrl": "boobmedia.asm.memory.unityweb",
+"asmFrameworkUrl": "boobmedia.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000"
+}
